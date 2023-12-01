@@ -1,5 +1,6 @@
 ## Hi there! 👋
 
+- 💻 Full-Stack Web Developer
 - 🎓 Undergraduate in Analysis and ***System Development*** at FIAP
 
 #### 💼 LinkedIn
