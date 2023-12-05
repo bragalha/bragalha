@@ -10,5 +10,5 @@
 ## ⚒️ Tech Stack
 
 <div align="center">
-    <a href="https://github.com/Bragalha"><img src="https://skillicons.dev/icons?i=html,css,js,ts,sass,tailwind,bootstrap,git,github,figma"/></a>
+    <a href="https://github.com/Bragalha"><img src="https://skillicons.dev/icons?i=html,css,js"/></a>
 </div>
